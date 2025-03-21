@@ -1,0 +1,36 @@
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: aliceblue;
+
+}
+SECTION{
+    text-align: center;
+    color: black;
+    text-underline-position: below;
+}
+h1{color: red
+    ;}
+
+
+    table,th,td{
+        background-color: aqua;
+        border:1px solid black  ;
+        border-collapse: collapse;
+        width: 10px;
+        height: 50%;
+    }
+    table{
+        height: 50px;
+        width: 50px;
+
+    }
+    p,h2,section,table,a{
+        color: white;
+    }
+    footer{
+      font-size: larger;
+      font-display: ;
+        color: red;
+    }
